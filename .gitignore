@@ -1,3 +1,6 @@
 *.exe
 resources
 videos
+.runtime
+.archive
+build
